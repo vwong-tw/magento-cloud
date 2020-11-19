@@ -1297,11 +1297,11 @@
         },
         {
             "name": "magento/ece-tools",
-            "version": "2002.1.3",
+            "version": "2002.1.4",
             "dist": {
                 "type": "zip",
-                "url": "https://repo.magento.com/archives/magento/ece-tools/magento-ece-tools-2002.1.3.0.zip",
-                "shasum": "7d550abf1c610741d4e8ca0d96cbe79170bb4070"
+                "url": "https://repo.magento.com/archives/magento/ece-tools/magento-ece-tools-2002.1.4.0.zip",
+                "shasum": "eab434cc31f6f914bf631f7acf8df90049fc0147"
             },
             "require": {
                 "colinmollenhour/credis": "^1.6.0",
@@ -9159,11 +9159,11 @@
         },
         {
             "name": "magento/quality-patches",
-            "version": "1.0.8",
+            "version": "1.0.11",
             "dist": {
                 "type": "zip",
-                "url": "https://repo.magento.com/archives/magento/quality-patches/magento-quality-patches-1.0.8.0.zip",
-                "shasum": "58924daad75343b3757f1ac114531644c94296a7"
+                "url": "https://repo.magento.com/archives/magento/quality-patches/magento-quality-patches-1.0.11.0.zip",
+                "shasum": "cc6c10bbb9b7a888bb3c5c6fe5955c0649cb0930"
             },
             "require": {
                 "ext-json": "*",
@@ -10178,16 +10178,16 @@
         },
         {
             "name": "seld/jsonlint",
-            "version": "1.8.2",
+            "version": "1.8.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Seldaek/jsonlint.git",
-                "reference": "590cfec960b77fd55e39b7d9246659e95dd6d337"
+                "reference": "9ad6ce79c342fbd44df10ea95511a1b24dee5b57"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Seldaek/jsonlint/zipball/590cfec960b77fd55e39b7d9246659e95dd6d337",
-                "reference": "590cfec960b77fd55e39b7d9246659e95dd6d337",
+                "url": "https://api.github.com/repos/Seldaek/jsonlint/zipball/9ad6ce79c342fbd44df10ea95511a1b24dee5b57",
+                "reference": "9ad6ce79c342fbd44df10ea95511a1b24dee5b57",
                 "shasum": ""
             },
             "require": {
@@ -10233,7 +10233,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2020-08-25T06:56:57+00:00"
+            "time": "2020-11-11T09:19:24+00:00"
         },
         {
             "name": "seld/phar-utils",
